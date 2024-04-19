@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoud
+- 👋 Hi, I’m @mahmoud engineering student mechatronics major
 - 👀 I’m interested in engineering and coding stuff
 - 🌱 I’m currently learning c++ and german
 
